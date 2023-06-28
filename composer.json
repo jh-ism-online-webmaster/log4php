@@ -1,5 +1,5 @@
 {
-    "name": "jh-ism-online-webmaste/log4php",
+    "name": "jh-ism-online-webmaster/log4php",
     "description": "A versatile logging framework for PHP",
     "keywords": ["log", "logging", "php"],
     "homepage": "http://logging.apache.org/log4php/",
